@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Greens/static/css/main.93a67240.css",
+    "main.js": "/Greens/static/js/main.f8794622.js",
+    "static/js/453.8460c1fb.chunk.js": "/Greens/static/js/453.8460c1fb.chunk.js",
+    "static/media/shoopping.png": "/Greens/static/media/shoopping.642f21245d86c007908e.png",
+    "static/media/background.jpg": "/Greens/static/media/background.5217748632715f05bf29.jpg",
+    "static/media/ecom.jpg": "/Greens/static/media/ecom.5c2a3dc1bab7d7fd8353.jpg",
+    "index.html": "/Greens/index.html",
+    "main.93a67240.css.map": "/Greens/static/css/main.93a67240.css.map",
+    "main.f8794622.js.map": "/Greens/static/js/main.f8794622.js.map",
+    "453.8460c1fb.chunk.js.map": "/Greens/static/js/453.8460c1fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a67240.css",
+    "static/js/main.f8794622.js"
+  ]
+}
