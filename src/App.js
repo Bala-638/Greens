@@ -1,24 +1,17 @@
-import logo from './logo.svg';
 import './App.css';
+import Limit from './componenet/limit';
+import Navbar from './componenet/navbar';
+import Products from './componenet/products';
+import Rout from './componenet/router';
+import Search from './componenet/search';
+import Main from './componenet/todos';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Rout />
+      {/* <Limit /> */}
+    </>
   );
 }
 
